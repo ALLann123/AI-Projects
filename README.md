@@ -9,5 +9,7 @@ Deployed streamlit cloud: https://aiclassifyimage.streamlit.app/
 ![classify works](https://github.com/user-attachments/assets/95b645ab-cadf-4f54-8918-80da1d76d5ac)
 
 # CV CRITIQUE
-GPT-4, Streamlit, Prompt-Engineering
+GPT-4, Streamlit, Prompt-Engineering.
+
+Deployed on streamlit cloud: https://cv-critique-bot.streamlit.app/
 ![cv critique](https://github.com/user-attachments/assets/60034162-4556-436e-b2b3-1e7ed2e3caed)
